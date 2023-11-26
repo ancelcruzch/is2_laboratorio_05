@@ -42,3 +42,14 @@ finally:
     time.sleep(2)
     # Cerrar el navegador
     driver.quit()
+
+# COMENTARIOS:
+# Estrategia de generación de casos de uso centrada en las funcionalidades..
+
+'''
+(venv) acruzch@Alains-MacBook-Air IS2_Laboratorio_05 % python test_calculator.py                                               
+/Users/acruzch/PycharmProjects/IS2_Laboratorio_05/venv/lib/python3.9/site-packages/urllib3/__init__.py:34: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Prueba exitosa!
+
+'''
